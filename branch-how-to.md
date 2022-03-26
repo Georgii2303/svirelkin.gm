@@ -1,15 +1,17 @@
-#Как пользоваться ветками
+# Как пользоваться ветками
+
 Для начала можно узнать текущий статус репозитория:
 
 `git status`
 
 Должно вывестись следующее сообщение:
 
-```On branch master
-nothing to commit, working directory clean```
+`On branch master`
+
+`nothing to commit, working directory clean`
 
 Теперь вы можете создать новую ветку в репозитории, которая позволит вам работать над обновлением.
 
-```git checkout -b new_branch-version```
+`git checkout -b new_branch-version`
 
 
